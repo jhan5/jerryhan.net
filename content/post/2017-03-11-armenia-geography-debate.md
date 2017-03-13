@@ -2,6 +2,7 @@
 title: Armenia Geography Debate
 author: Jerry Han
 date: '2017-03-11'
+image: "https://cloud.githubusercontent.com/assets/26351550/23865628/87937a9c-07d3-11e7-8875-ecc83627d581.png"
 slug: armenia
 categories:
   - Random
