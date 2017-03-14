@@ -3,9 +3,9 @@ title = "Jerry Han"
 theme = "hugo-tracks-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "jerryhan"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-1988641-7"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
 
