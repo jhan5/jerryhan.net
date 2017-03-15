@@ -7,3 +7,5 @@ image: "https://cloud.githubusercontent.com/assets/26351550/23865885/54057dd2-07
 The 7th graders at AMS are writing an anthology. Here's what you need to know.
 
 <!--more-->
+
+An anthology is a book made of many short stories and novellas. The 7th graders are writing, editing, and publishing one. Publishing and distributing this book will take a lot of money. We would love if you could donate some. Thanks.
